@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SF2022User_NN_Lib
 {
-    public class Class1
+    public class Calculations
     {
+
     }
 }
